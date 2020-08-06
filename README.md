@@ -30,6 +30,8 @@
   </a>
 </div>
 
+<br/>
+
 <div align="center">
   <div>
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
