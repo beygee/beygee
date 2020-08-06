@@ -1,4 +1,4 @@
-### Hi there <img src="https://user-images.githubusercontent.com/7090906/89491598-94fab980-d7ea-11ea-8058-b30f74466a2e.gif" />
+### Hi there <img src="https://user-images.githubusercontent.com/7090906/89491598-94fab980-d7ea-11ea-8058-b30f74466a2e.gif" height="24" />
 
 **beygee/beygee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
