@@ -1,10 +1,13 @@
 <div align="center">
   
   <h3>Hi there <img src="https://user-images.githubusercontent.com/7090906/89491598-94fab980-d7ea-11ea-8058-b30f74466a2e.gif" height="24" /></h3>
-
+  
+  <div>
+    <a href="https://hits.seeyoufarm.com"/><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbeygee%2Fhit-counter"/></a>
+  </div>
 </div>
 
-<a href="https://hits.seeyoufarm.com"/><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbeygee%2Fhit-counter"/></a>
+
 
 Here are some ideas to get you started:
 
@@ -26,6 +29,6 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=beygee)]()
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=beygee)](https://github.com/beygee)
 
 
