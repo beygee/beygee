@@ -29,6 +29,6 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=beygee&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/beygee)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=beygee&count_private=true&show_icons=true&include_all_commits=true&show_owner=false)](https://github.com/beygee)
 
 
