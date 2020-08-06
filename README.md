@@ -29,10 +29,12 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
 
-<a href="https://github.com/beygee">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=beygee&show_icons=true&include_all_commits=true&count_private=true" alt="Anurag's github stats" />
-</a>
-<a href="https://github.com/beygee">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=beygee&layout=compact" />
-</a>
+<div align="center">
+  <a href="https://github.com/beygee">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=beygee&show_icons=true&include_all_commits=true&count_private=true" alt="Anurag's github stats" />
+  </a>
+  <a href="https://github.com/beygee">
+    <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=beygee&layout=compact" />
+  </a>
+</div>
