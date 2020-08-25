@@ -20,6 +20,11 @@
 
 <br/>
 
+**Certified:**
+
+<code><img height="20" src="https://www.certmetrics.com/amazon/Telerik.Web.UI.WebResource.axd?imgid=311edc31c12a483dbae7b0bebb5ad52a&type=rbi">
+<a href="https://www.certmetrics.com/amazon/public/badge.aspx?i=1&t=c&d=2020-04-16&ci=AWS01325866">AWS Certified Solutions Architect - Associate</a></code>
+
 <!--
 <div align="center">
   <a href="https://github.com/beygee">
