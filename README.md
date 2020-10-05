@@ -34,5 +34,5 @@
 **Certified:**
 
 <code><img height="20" src="https://images.youracclaim.com/images/6774b3bf-7a82-4d40-a2d1-86b412635bae/AWS-SolArchitect-Associate.png">
-<a href="https://www.certmetrics.com/amazon/public/badge.aspx?i=1&t=c&d=2020-04-16&ci=AWS01325866" target="_blank">AWS Certified Solutions Architect - Associate</a></code>
+<a href="https://www.youracclaim.com/badges/5dcecc92-dc22-4028-bc40-fc88e3585386/public_url" target="_blank">AWS Certified Solutions Architect - Associate</a></code>
 
