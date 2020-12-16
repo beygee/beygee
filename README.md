@@ -5,7 +5,6 @@
   </div>
 </div>
 
-- [Introduce.](https://www.notion.so/d937be486dd746e48e0042f9098fe326)
 - 🔭 I’m currently working on **Yonple**
 - 🌱 I’m currently learning **Typescript, Flutter**
 
