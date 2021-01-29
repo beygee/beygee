@@ -6,7 +6,6 @@
 </div>
 
 - 🦉 **[leetcode](https://leetcode.com/beygee/)**
-- 🔭 I’m currently working on **Yonple**
 - 🌱 I’m currently learning **Typescript, Flutter**
 
 **Languages and Tools:**  
