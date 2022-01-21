@@ -5,7 +5,7 @@
   </div>
 </div>
 
-- 🦉 **[leetcode](https://leetcode.com/beygee/)**
+- 🦉 Software Maestro 6th
 - 🌱 I’m currently learning **Typescript, Flutter**
 
 
