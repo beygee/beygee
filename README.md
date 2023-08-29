@@ -33,6 +33,5 @@
 
 **Certified:**
 
-<code><img height="20" src="https://images.youracclaim.com/images/6774b3bf-7a82-4d40-a2d1-86b412635bae/AWS-SolArchitect-Associate.png">
-<a href="https://www.youracclaim.com/badges/5dcecc92-dc22-4028-bc40-fc88e3585386/public_url" target="_blank">AWS Certified Solutions Architect - Associate</a></code>
+<code><img height="20" src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png"></code> <a href="https://www.credly.com/badges/058d55a8-7319-4f00-93a4-4b5e47412e69" target="_blank">AWS Certified Solutions Architect - Associate</a>
 
