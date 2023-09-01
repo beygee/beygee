@@ -35,3 +35,5 @@
 
 <code><img height="20" src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png"></code> <a href="https://www.credly.com/badges/058d55a8-7319-4f00-93a4-4b5e47412e69" target="_blank">AWS Certified Solutions Architect - Associate</a>
 
+<code><img height="20" src="https://images.credly.com/size/680x680/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png"></code> <a href="https://www.credly.com/badges/058d55a8-7319-4f00-93a4-4b5e47412e69" target="_blank">AWS Certified Solutions Architect - Professional</a>
+
