@@ -1,8 +1,5 @@
 <div align="center">
   <h3>Hi there <img src="https://user-images.githubusercontent.com/7090906/89491598-94fab980-d7ea-11ea-8058-b30f74466a2e.gif" height="24" /></h3>  
-  <div>
-    <a href="https://hits.seeyoufarm.com"/><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbeygee%2Fhit-counter"/></a>
-  </div>
 </div>
 
 - 🦉 Software Maestro 6th
@@ -36,4 +33,6 @@
 <code><img height="20" src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png"></code> <a href="https://www.credly.com/badges/058d55a8-7319-4f00-93a4-4b5e47412e69" target="_blank">AWS Certified Solutions Architect - Associate</a>
 
 <code><img height="20" src="https://images.credly.com/size/680x680/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png"></code> <a href="https://www.credly.com/badges/058d55a8-7319-4f00-93a4-4b5e47412e69" target="_blank">AWS Certified Solutions Architect - Professional</a>
+
+<code><img height="20" src="https://images.credly.com/size/340x340/images/4d08274f-64c1-495e-986b-3143f51b1371/image.png"></code> <a href="https://www.credly.com/badges/058d55a8-7319-4f00-93a4-4b5e47412e69" target="_blank">AWS Certified Advanced Networking – Specialty</a>
 
